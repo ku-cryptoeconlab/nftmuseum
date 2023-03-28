@@ -1,0 +1,175 @@
+= ArtBase@UC: _A University NFT Museum and Library_
+
+== Introduction
+
+=== Non-fungible Tokens (NFTs)
+
+Non-fungible tokens (NFTs) are digital assets that represent ownership of a unique item, such as digital art, collectibles, or music. NFTs have gained prominence in recent years as a means of authenticating, preserving, and exchanging digital works in a secure and decentralized manner. Built on blockchain technology, NFTs allow for the transparent and verifiable tracking of digital asset ownership, providing a robust solution to challenges posed by the digital nature of these assets, such as replication, copyright infringement, and distribution control.
+
+Unlike cryptocurrencies like Bitcoin or Ethereum, which are fungible and can be exchanged on a one-to-one basis, NFTs are non-fungible, meaning each token is unique and cannot be exchanged on an equal basis with another NFT. This characteristic makes NFTs particularly well-suited for representing digital works of art, as each piece can be minted as a distinct token, preserving its individuality and value. NFTs can also include metadata, such as creator information, copyright details, and provenance history, further enhancing their utility in preserving and managing digital assets.
+
+The rise of NFTs has led to a flourishing digital art market, with creators and collectors engaging in the trade and exhibition of NFT-based works. High-profile sales of digital art, such as the $69.3 million auction of Beeple's "Everydays: The First 5000 Days," have demonstrated the potential value of NFTs and their capacity to reshape the art world. Beyond the realm of art, NFTs have also been utilized in various industries, including gaming, sports, and entertainment, to tokenize virtual goods, memorabilia, and other unique digital assets.
+
+As NFTs grow in popularity, museums have started exploring their potential for showcasing digital art and generating revenue. In early 2021, the British Museum partnered with the blockchain platform LaCollection.io to tokenize and sell digital reproductions of iconic artworks. In the same year, the Hermitage Museum in St. Petersburg, Russia, auctioned off NFTs of digital reproductions of some of its most famous artworks, including works by Van Gogh, Monet, and Kandinsky. This move generated significant income for the museum, while also providing collectors with a unique opportunity to own digital versions of these masterpieces. The Museum of Modern Art worked with Refik Anadol to create NFTs from publicly available images and text materials from the museum’s archive. These NFTs were also sold to generate additional funding for the museum. Finally, the Château de Chantilly, which houses the Musée Condé, partnered with the Keru project on the Tezos blockchain to distribute souvenir NFTs to visitors who scan a QR code. These NFTs offer a verifiable, public proof of a visit.
+
+The rapid growth and adoption of NFTs have sparked discussions in academia and other sectors about their potential applications. The decentralized and secure nature of blockchain technology offers new opportunities for the preservation, access, and exchange of digital works, potentially transforming the way academic libraries and galleries manage and disseminate scholarly resources. Certain types of NFTs, which may provide access to real-world events like conferences, can be borrowed while still guaranteeing university ownership. NFT digital art collections can also be borrowed across universities. By leveraging NFTs, academic institutions can also foster innovation and collaboration across disciplines. 
+
+=== Role of NFTs
+
+One of the key roles of NFTs in the preservation of digital art and IP is their ability to establish verifiable ownership and provenance. As unique digital tokens minted on a blockchain, NFTs can be traced from their origin through subsequent transactions, providing a transparent and tamper-proof record of ownership. This eliminates the uncertainty often associated with digital assets, as NFTs can unequivocally verify the legitimacy of a digital work, enhancing its value and marketability. Additionally, NFTs can include metadata that contains information about the creator, copyright details, and other relevant information, further supporting the preservation and management of digital IP.
+
+NFTs also play a crucial role in safeguarding digital art and IP from unauthorized replication and distribution. While digital works can be easily copied and shared, the NFT representing the original piece remains unique and non-replicable, providing a clear distinction between the authentic work and its copies. This distinction enables creators and collectors to maintain control over the distribution of their digital assets, that may ensure that the value of the original work is upheld. Furthermore, NFTs can also be used to verify the authenticity and provenance of physical arts pieces as. This functionality allows for the automated distribution and enforcement of royalty and licensing agreements.
+
+NFTs also have the capacity to foster new economic models and ecosystems for creators and collectors. By tokenizing digital works, NFTs enable the creation of digital marketplaces, where artists, and university museums can directly sell their creations to collectors and the public without the need for intermediaries. This democratization of the art market can empower creators, providing them with greater control over their work and an opportunity to earn a larger share of the profits from their sales. 
+
+=== Previous collaborations between academia, technology, and art sectors
+
+Established in 1985, The Massachusetts Institute of Technology (MIT) Media Lab has become a hub for cutting-edge research and innovation. The lab encourages collaboration between artists, engineers, and scientists, leading to breakthroughs in fields such as artificial intelligence, virtual reality, and interactive media. One of the Media Lab's notable projects is the Open Ocean Initiative, which aimed to create a global network of oceanographic data. Through this initiative, artists and researchers created immersive installations that visualize complex marine ecosystems, enabling the public to explore and understand the ocean's depths.
+
+Another example of collaborative projects between universities and the art community is the first-ever Climate Engagement through Art in Cities fellowship. This project between the School of Art, the School of Architecture, and the School of the Environment at Yale University uses cooling, reflective paint, on art work displayed in the city of New Haven. The appearance of the work changes based on the temperature in the air. ArtBase@UC will continue in this collaborative spirit by bringing together interdisciplinary academic experts and community members to leverage the unique capabilities of blockchain and NFTs. 
+
+== Expected Outcomes and Implications
+
+=== Identification of Best Practices
+
+To ensure the success of a university NFT museum, ArtBase@UC will identify and implement best practices that can guide development and operations. ArtBase@UC will focus on developing best practices in the following areas:
+
+==== Infrastructure and Resources
+
+Develop a robust digital platform: A critical element of ArtBase@UC’s success is the creation of a user-friendly, secure, and scalable digital platform to showcase the NFT artworks. Collaborating with experienced developers and industry partners will be essential in building a reliable platform.
+
+Establish a dedicated team: ArtBase@UC will require a skilled and dedicated team that can manage its operations, curate content, and foster collaborations. This team should consist of professionals with expertise in digital art, blockchain technology, and museum management, as well as faculty members and students who are passionate about the project.
+
+==== Partnerships and Collaborations
+
+Collaborate with artists and collectors: To curate a diverse and engaging collection, ArtBase@UC will establish partnerships with artists and collectors who are active in the digital art space. These collaborations can facilitate the acquisition of high-quality NFT artworks and provide opportunities for artists to showcase their creations in an academic context.
+
+Engage with technology platforms: Building relationships with established blockchain platforms can help ArtBase@UC access valuable resources, such as technical expertise, industry insights, and marketing support. These partnerships can also contribute to ArtBase@UC’s credibility within the NFT community, attracting more artists and collectors. 
+
+Foster interdisciplinary research and education: ArtBase@UC can act as a catalyst for interdisciplinary research and education by connecting students and faculty from various disciplines, such as art, computer science, and business. Collaborating with different academic departments will promote the exploration of NFT technology's potential applications and foster a vibrant intellectual community.
+
+==== Legal and Ethical Considerations
+
+Address intellectual property rights: ArtBase@UC must respect the intellectual property rights of artists and creators. Developing clear policies and guidelines regarding the acquisition, display, and use of NFT artworks will help protect the rights of all stakeholders involved.
+
+Ensure transparency and authenticity: ArtBase@UC will implement strict protocols to verify the authenticity of its NFT artworks and maintain transparency in its transactions. Collaborating with blockchain platforms that prioritize security and transparency can help achieve this goal.
+
+Establish proper procedures for NFT donations: ArtBase@UC will develop a procedure to acknowledge and receive NFT donations to the university since the act of sending an NFT alone to an institution’s public address does not constitute an institution’s acknowledgement of receipt.
+
+=== Enhancement of the university's reputation in innovation and technology
+
+By embracing the potential of digital art and NFT technology, the University of Cincinnati can demonstrate its commitment to a forward-thinking and technologically advanced environment for its students, faculty, and community. By fostering a vibrant intellectual community, UC can promote innovative research and academic projects that span multiple disciplines. This interdisciplinary approach encourages the exchange of ideas and knowledge between departments, driving innovation and solidifying the university's reputation as a leader in technology and education.
+
+ArtBase@UC can also help to draw talented individuals to the university as well as  foster an entrepreneurial mindset among its students and faculty. ArtBase@UC can act as an incubator for innovative ideas and projects, providing resources and support for those interested in launching their ventures in the digital art and blockchain space. Engaging with industry partners and offering hands-on experience with NFT technology can help students and faculty develop practical skills and insights, better preparing them for careers in the rapidly evolving digital landscape. Finally, by sharing research, insights, and best practices, the university can establish itself as a thought leader in the field, influencing policy discussions and industry standards. This global engagement not only enhances the university's reputation but also enriches the educational experience for its students and faculty by fostering an international perspective.
+
+== Digital Platform
+
+=== Blockchain technology and infrastructure
+
+Choosing the right blockchain network will play a significant role in ArtBase@UC’s overall success. The following key factors will be considered when selecting the appropriate blockchain technology and infrastructure.
+
+==== Scalability, performance, and capabilities
+
+Transaction throughput: the platform must be able to handle a large number of transactions quickly and efficiently. A scalable blockchain network should be able to accommodate the demands of a growing user base while maintaining fast transaction times and low fees. This ensures that users can acquire, trade, and interact with NFTs seamlessly.
+
+Smart contract capabilities: The selected blockchain network should support robust smart contract functionality to enable the creation and management of NFTs. Smart contracts provide the foundation for tokenizing digital art and ensuring its provenance and ownership, making it a crucial component of the NFT ecosystem.
+
+Network size and decentralization: A large and decentralized network can provide enhanced security and resilience against attacks, as it is more challenging for bad actors to manipulate or compromise the system. Selecting a blockchain platform with an extensive and diverse network of validators or nodes can contribute to the overall stability and security of ArtBase@UC.
+
+==== Interoperability and Ecosystem
+
+Cross-chain compatibility: As the NFT ecosystem continues to grow, interoperability between different blockchain networks becomes increasingly important. Choosing a platform that supports cross-chain compatibility can help ensure that ArtBase@UC remains accessible and relevant in the evolving NFT landscape. This can also facilitate collaboration and interaction between various NFT platforms and communities.
+
+Developer community and ecosystem: Selecting a blockchain platform with a strong developer community and a wide array of tools and resources can simplify the development and maintenance of the digital platform.
+
+The NFTs will be generated by a wallet protected with a Ledger Enterprise solution. The master seed phrase will be stored at secure UC locations and at a Fifth Third Bank safety deposit box.
+
+=== Mobile App Development
+
+A well-designed mobile app will make it easier for students, faculty, and the community to explore and engage with an NFT digital art collection on their smartphones. The UI should adhere to accessibility best practices and guidelines, such as the Web Content Accessibility Guidelines (WCAG) adapted for mobile devices. This includes providing alternative text for images, ensuring sufficient color contrast, and offering touchscreen navigation support, among other considerations. Exhibit 1 demonstrates how the mobile app and ArtBase@UC technology will work.
+
+== NFT Acquisition and Generation
+
+=== ArtBase@UC Acquisitions
+
+Initially, ArtBase@UC will prioritize the collection and purchase of Generative AI NFTs and NFTs involved in fraud and financial scams. Generative AI involves the use of artificial intelligence algorithms to create unique and unpredictable visual experiences. By showcasing a collection of generative AI art, ArtBase@UC can promote the exploration of new artistic techniques. Generative AI can also encourage collaboration between different academic disciplines and inspire students to consider the broader implications of AI and its impact on creativity and human expression. Generative AI has  sparked significant debate regarding the nature of artistic authorship, the role of algorithms in the creative process, and the ethical implications of AI-generated art. By showcasing a collection of generative AI art, ArtBase@UC can provide a platform for critical discourse on these topics.
+
+The NFT market has witnessed several high profile financial frauds and scams. One of these scams is called a rug pull in which artists or platforms deceive buyers by promising valuable NFTs but ultimately fail to deliver or disappear with the funds. By displaying a collection of NFTs that were rug pulls, ArtBase@UC can raise awareness of the risks associated with the NFT market and educate the community on how to identify and avoid such schemes. In addition, by highlighting the nature of NFT scams and rug pulls, ArtBase@UC can advocate for the adoption of best practices and the establishment of industry standards and regulations to protect artists, collectors, and investors. 
+
+=== NFT Media Lab Gallery Creations
+
+While current technology can create time-stamped certificates of an artwork’s provenance, a digital artwork’s aura is unrealized without a spatial dimension. The NFT Media Lab Museum will create NFTs of artwork at the University of Cincinnati that embed the time and location of when a museum visitor was physically present with a particular artwork. Simultaneously, the NFT Media Lab will archive a high quality reproduction of the original object on a blockchain. Because a blockchain is a globally distributed, immutable database of unique digital objects, ArtBase@UC will enhance public engagement with museums while also providing free and open access to the digital scan of the artwork along with its history and relevant research background.
+
+Artbase@UC will also develop technology for a cellphone app to take a picture of an artwork, and then identify the location of the user in the museum. After validating the user’s physical location at the museum, ArtBase@UC will issue an NFT of the artwork to the user’s wallet.
+
+=== Cryptoeconomics Lab NFT Library Acquisitions
+
+Utility NFTs can function as tickets for conferences, workshops, or seminars that cater to specific academic interests. By lending out these NFTs, universities can provide students and faculty with the opportunity to attend exclusive events, broadening their educational horizons and fostering networking opportunities. Some utility NFTs may grant access to virtual reality (VR) experiences, simulations, or immersive learning environments. Other NFTs like CityDAO provide membership in a decentralized autonomous organization (DAO) that aims to acquire, manage, and develop land and real estate properties using blockchain technology and the principles of decentralized governance. NFT holders can participate in the governance of CityDAO by voting on proposals related to the management and development of the properties owned by the organization. NFT holders may also have the right to access the properties managed by CityDAO, depending on the specific terms and conditions.
+
+=== Criteria for NFT selection, acquisition, and creation
+
+The following key factors will be considered: 
+
+==== Artistic Merit and Relevance
+
+Originality and creativity: One of the primary factors to consider when selecting NFTs is the artistic merit of the work. The NFTs should showcase originality and creativity, reflecting the unique perspectives and talents of the artists. This will help ArtBase@UC offer a diverse and engaging collection that promotes artistic excellence.
+
+Relevance to academic disciplines: The NFTs acquired should be relevant to various academic disciplines within the university, such as art, technology, and the humanities. Selecting NFTs that connect to different fields of study can foster interdisciplinary collaboration and promote intellectual curiosity among students and faculty. ArtBase@UC would investigate the potential for an advisory board to aid in the selection process.
+
+Cultural and historical significance: ArtBase@UC will consider the cultural and historical significance of the NFTs acquired. Selecting NFTs that reflect important cultural or historical events, trends, or themes can provide valuable context for understanding the development of digital art and its role in contemporary society.
+
+==== Authenticity and Provenance
+
+Verification of authenticity: Ensuring the authenticity of the NFTs in ArtBase@UC’s collection is essential for maintaining its credibility and reputation. ArtBase@UC will establish a rigorous process for verifying the authenticity of each NFT, including researching the artist's background, confirming the token's provenance, and validating the NFT's metadata.
+
+Compliance with intellectual property rights: ArtBase@UC will ensure that the acquisition and display of NFTs comply with intellectual property rights, including copyright and trademark laws. This may involve obtaining licenses or permissions from the artists or rights holders and developing appropriate policies.
+
+==== Financial and Ethical Considerations
+
+Budget and acquisition strategy: ArtBase@UC will establish a clear budget and acquisition strategy that aligns with its mission and objectives. This may involve prioritizing certain types of NFTs, setting limits on acquisition costs, or allocating funds for specific categories of digital art.
+
+Ethical considerations: When selecting and acquiring NFTs, ArtBase@UC will take into account ethical and considerations. This may include avoiding NFTs associated with controversial artists, subject matter, or platforms.
+
+== Evaluation of ArtBase@UC
+
+=== User Surveys and Feedback
+
+User surveys and feedback are essential tools for gauging visitor satisfaction and understanding how well a museum meets its audience's needs and expectations. Surveys can collect data on user demographics, preferences, and opinions about the exhibitions, user interfaces, and overall experience. This information can help identify areas of improvement and inform decisions about future exhibitions, museum programming, and app updates. Additionally, feedback from students and faculty can provide insights into the museum's impact on education, research, and interdisciplinary collaboration.
+
+=== Data analytics on usage and engagement
+
+Data analytics can provide quantitative insights into user behavior, allowing the university to measure usage and engagement with ArtBase@UC. Key performance indicators (KPIs) can be defined to track success in attracting and retaining visitors, such as the number of unique users, time spent in the museum or interacting with exhibits, frequency of visits, and user interaction with specific features or artworks. By analyzing these data points, ArtBase@UC can identify trends, evaluate the effectiveness of marketing and outreach efforts, and make data-driven decisions to optimize offerings.
+
+=== Timeline and Project Milestones
+
+* Phase 1, Spring 2023: Generate digital scans of artwork collection. The team will compile research associated with its collections and finalize the programming requirements for the mobile app.
+
+* Phase 2, Summer 2023: Create and test a beta version of the mobile app, along with creating the NFTs of the physical art pieces. We will also print the physical NFC cards used to validate the identity of the NFT owners. 
+
+* Phase 3, Fall 2023: Conduct a pilot version of the ArtBase@UC project by providing a small number of visitors with cards in order to test the automatic deployment of NFTs.  
+
+* Phase 4, Spring 2024: Launch the project with the public and collect additional feedback data for analysis.
+
+== Mobile App Workflow
+
+* Step 1:
+
+Museum visitors are given their own ArtBase physical card that contains a QR code (future versions will allow for NFC capabilities). The card holder scans the QR code with the camera embedded in the mobile ArtBase app. This QR code is linked to the wallet of a unique ENS subdomain where NFTs will be sent (e.g. johndoe.ucdaap.eth)
+
+* Step 2:
+
+After scanning the QR code, the visitor will confirm the museum’s location based on the GPS coordinates provided by the mobile app. The museum can provide a proof-of-attendance NFT that is time-stamped and geo-stamped.
+  
+* Step 3: 
+
+Visitors browse artwork in the museum. If they want a collectible NFT of a particular piece, then the visitor scans the QR code near the artwork with their mobile app. 
+ 
+* Step 4: 
+
+The QR Code links to the NFT and prompts the user to confirm the delivery of the NFT. Upon confirmation, an NFT is delivered to the ENS domain name.
+ 
+* Step 5: 
+
+Visitors can view their collection anytime on the phone using the mobile app. Because all NFTs are distributed to the ENS domain name (e.g. visitorname.museum.eth), the mobile app will use blockhain explorer tools to create a user-friendly gallery in the app. Private keys of the ENS domain names will be stored with ArtBase@UC on Ledger Enterprise’s Vault at the Kautz-Uible Cryptoeconomics Lab. 
+
+Acknowledgement: Text was generated with the assistance of ChatGPT
